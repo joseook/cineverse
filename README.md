@@ -1,6 +1,5 @@
 # CineVerse - IMDb Movie App
 
-![CineVerse Logo](assets/icon.png)
 
 A modern React Native mobile application for browsing movies and TV shows, with a beautiful UI inspired by IMDb and popular streaming platforms.
 
